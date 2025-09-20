@@ -1,8 +1,9 @@
 import { useState } from 'react'
+import Login from './components/auth/Login'
 function App() {
   return (
     <>
-      
+      <Login/>
     </>
   )
 }
